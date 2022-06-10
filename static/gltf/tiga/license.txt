@@ -1,0 +1,11 @@
+Model Information:
+* title:	Ultraman Tiga
+* source:	https://sketchfab.com/3d-models/ultraman-tiga-2d62138f99684ab783d1c212b6b6ad42
+* author:	aquanort (https://sketchfab.com/aquanort)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Ultraman Tiga" (https://sketchfab.com/3d-models/ultraman-tiga-2d62138f99684ab783d1c212b6b6ad42) by aquanort (https://sketchfab.com/aquanort) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
